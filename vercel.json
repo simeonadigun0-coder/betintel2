@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/get-fixtures.js": { "maxDuration": 15 },
+    "api/enrich.js":       { "maxDuration": 15 },
+    "api/analyze.js":      { "maxDuration": 60 }
+  }
+}
